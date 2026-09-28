@@ -1,0 +1,23 @@
+{
+    "best_model": "Logistic Regression",
+    "metrics": {
+        "Logistic Regression": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "Random Forest": {
+            "accuracy": 0.999,
+            "precision": 0.9983361064891847,
+            "recall": 1.0,
+            "f1_score": 0.9991673605328892
+        },
+        "SVM": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        }
+    }
+}
